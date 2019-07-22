@@ -2,6 +2,6 @@
 
 Git repository by Zephyr for Mobile Paradigm
 
-Submitted via gitGUI
+Name: Zephyr
 
-Edit 2
+Course: Bachelor of Software Engineering
