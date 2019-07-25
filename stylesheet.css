@@ -3,7 +3,7 @@
 }
 
 body {
-  font-size: 14px;
+  font-size: 16px;
   min-width: 74rem;
   background-color: Darkgrey;
 	background-image: url("mainart.jpg")
@@ -12,7 +12,6 @@ body {
 .view{
   font-size: 22px;
   color: red;
-	font-weight: bold;
 }
 
 .view .desktop{
@@ -28,8 +27,19 @@ body {
 	margin: auto;
 }
 
+.image{
+	width: 20%;
+}
+
 img{
 	padding-right: 10px;
+	width: 100%;
+}
+
+.mobileapp{
+	background-color: white;
+	border-radius: 10px;
+	padding: 20px;
 }
 
 @media (min-width: 800px) {
