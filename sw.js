@@ -2,7 +2,6 @@ var CACHE_TITLE = 'zephyrcache';
 var CACHE_VERSION = 'v3';
 var CACHE_NAME = CACHE_TITLE + '-' + CACHE_VERSION;
 var urlsToCache = [
-  '/',
   'index.html',
   'mainart.jpg',
   'stylesheet.css'
