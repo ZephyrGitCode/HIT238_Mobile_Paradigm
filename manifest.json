@@ -2,9 +2,9 @@
   "name": "ZephyrSite",
   "short_name": "MySite",
   "icons": [{
-    "src": "mainart.jpg",
+    "src": "totalshock.png",
       "sizes": "128x128",
-      "type": "image/jpg"
+      "type": "image/png"
     }],
   "start_url": ".",
   "display": "standalone",
