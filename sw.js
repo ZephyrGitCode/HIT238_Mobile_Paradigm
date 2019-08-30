@@ -4,7 +4,8 @@ var CACHE_NAME = CACHE_TITLE + '-' + CACHE_VERSION;
 var urlsToCache = [
   'index.html',
   'mainart.jpg',
-  'stylesheet.css'
+  'stylesheet.css',
+  'totalshock.png'
 ];
 
 self.addEventListener('install', function(event) {
