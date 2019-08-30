@@ -4,7 +4,7 @@
   "icons": [{
     "src": "mainart.jpg",
       "sizes": "128x128",
-      "type": "image/png"
+      "type": "image/jpg"
     }],
   "start_url": ".",
   "display": "standalone",
