@@ -1,5 +1,5 @@
 var CACHE_TITLE = 'zephyrcache';
-var CACHE_VERSION = 'v2';
+var CACHE_VERSION = 'v3';
 var CACHE_NAME = CACHE_TITLE + '-' + CACHE_VERSION;
 var urlsToCache = [
   '/',
