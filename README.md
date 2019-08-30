@@ -5,3 +5,5 @@ Git repository by Zephyr for Mobile Paradigm
 Name: Zephyr
 
 Course: Bachelor of Software Engineering
+
+Terminal
