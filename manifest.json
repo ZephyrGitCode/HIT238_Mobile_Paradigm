@@ -3,7 +3,7 @@
   "short_name": "MySite",
   "icons": [{
     "src": "totalshock.png",
-      "sizes": "128x128",
+      "sizes": "160x160",
       "type": "image/png"
     }],
   "start_url": ".",
